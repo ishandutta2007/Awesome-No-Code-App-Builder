@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-No-Code-App-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-No-Code-App-Builder?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-No-Code-App-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-No-Code-App-Builder?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-No-Code-App-Builder/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-No-Code-App-Builder?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-No-Code-App-Builder/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,9 +63,9 @@ This repository tracks leading **commercial no-code and low-code app builders** 
 > [!TIP]  
 > Self-hosting open-source low-code engines provides complete **data sovereignty**, eliminates vendor lock-in, and bypasses per-seat subscription fees.
 
-*Table sorted by GitHub Star Count in descending order:*
+*Table sorted by GitHub Stars_Count in descending order:*
 
-| Open-Source Project 🛠️ | GitHub Star Count ⭐ | License 📜 | Description & Key Strengths 🎯 | Primary Use Case 💡 |
+| Open-Source Project 🛠️ | GitHub Stars_Count ⭐ | License 📜 | Description & Key Strengths 🎯 | Primary Use Case 💡 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Strapi](https://github.com/strapi/strapi)** | [<img src="https://img.shields.io/github/stars/strapi/strapi?style=social&color=white" alt="Strapi Stars"/>](https://github.com/strapi/strapi/stargazers) | MIT | **Leading open-source headless CMS & API engine** — fully customizable JavaScript/TypeScript Node.js backend with automated REST and GraphQL API generation. | Headless CMS & Backend APIs |
 | **[PocketBase](https://github.com/pocketbase/pocketbase)** | [<img src="https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white" alt="PocketBase Stars"/>](https://github.com/pocketbase/pocketbase/stargazers) | MIT | **Open-source backend in 1 single file** — embedded SQLite database with real-time subscriptions, built-in auth, file storage, and admin dashboard. | Lightweight Real-time Backend |
@@ -116,7 +116,7 @@ Thank you for visiting this repository! If you find this curated list of no-code
 
 1. Fork the repository.
 2. Add or update entries in `README.md` following the exact table schemas.
-3. Ensure starting prices, free tier limits, company valuation/revenue metrics, and exact GitHub star counts are verified.
+3. Ensure starting prices, free tier limits, company valuation/revenue metrics, and exact GitHub Stars_Counts are verified.
 4. Submit a Pull Request with a clear description of changes.
 
 ---
